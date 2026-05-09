@@ -1,0 +1,2 @@
+# No external requirements needed for these nodes.
+# They use standard Python libraries (json, os).
