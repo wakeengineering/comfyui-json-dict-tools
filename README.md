@@ -81,3 +81,7 @@ For a key like `sd1.5\\disneyPixarCartoon_v10.safetensors`, Python string escapi
 ## Requirements
 - No external dependencies required (uses standard Python libraries).
 - Fully compatible with both the Classic (V1) and Modern (V2) ComfyUI canvases.
+
+## License
+
+MIT License - Intended for personal, non-commercial use. See LICENSE file for details.
